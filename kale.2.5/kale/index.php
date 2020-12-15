@@ -13,6 +13,7 @@
 <div class="row two-columns">
     <?php get_template_part('parts/feed'); ?>
     <?php get_sidebar(); ?>
+    aaaaaa
 </div>
 <!-- /Two Columns -->
 <hr />
